@@ -1,0 +1,83 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.parent{
+width: 682px;
+min-height: auto;
+}
+.div1{
+    width: 682px;
+    height: 1280px;
+    background: url(nkar1.jpg);
+    background-repeat: no-repeat;
+}
+.text1{
+    font-family: 'Dancing Script';
+    color: white;
+    font-size: 50px;
+    font-weight: 600;
+    padding-left: 80px;
+    padding-top: 50px;
+}
+.anunner{
+    font-family: 'Dancing Script';
+    color: rgb(255, 255, 255);
+    font-size: 50px;
+    font-weight: 600;
+    padding-left: 80px;
+    padding-top: 600px;
+}
+.div2{
+    width: 682px;
+    height: 980px;
+    background: url(nkar2.jpg);
+    background-repeat: no-repeat;
+}
+.text2{
+    font-family: 'Dancing Script';
+    color: white;
+    font-size: 36px;
+}
+.texthraveri{
+    width: 650px;
+    height: 970px;
+    text-align: center;
+    line-height: 1.6;
+    display: flex;
+    align-items: flex-end;
+    margin: auto;    
+}
+.div3{
+    width: 682px;
+    height: 980px;
+    background: url(nkar3.jpg);
+    background-repeat: no-repeat;
+}
+.text3{
+    font-family: 'Dancing Script';
+    color: white;
+    font-size: 36px;
+}
+#texthraveri{
+    width: 650px;
+    height: 970px;
+    text-align: center;
+    line-height: 1.6;
+    display: flex;
+    align-items: flex-end;
+    margin: auto;    
+}
+.div4{
+    width: 682px;
+    height: 100px;
+    background-color: rgb(102, 227, 118);
+    color: azure;
+    font-size: 40px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    
+
+}
